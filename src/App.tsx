@@ -1,12 +1,8 @@
-import React from "react";
+import { Navbar } from "./layouts/Navbar";
 import "./App.css";
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Header</h1>
-    </div>
-  );
+  return <Navbar />;
 }
 
 export default App;
