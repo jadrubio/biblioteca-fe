@@ -1,4 +1,4 @@
-import React from "react";
+import { Button } from "./UI/Button";
 
 export const BookDisplay = () => {
   return (
@@ -12,9 +12,7 @@ export const BookDisplay = () => {
         />
         <h6 className="mt-2">Book</h6>
         <p>Basic Comic Book</p>
-        <a className="btn main-color text-white" href="#">
-          Reserve
-        </a>
+        <Button>Reserve</Button>
       </div>
     </div>
   );
