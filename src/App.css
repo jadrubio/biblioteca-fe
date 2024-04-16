@@ -3,7 +3,7 @@
 }
 
 .header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./images/public/image-3.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./images/public/image-5.jpeg");
   opacity: var(--mainOpacity);
   height: 25em !important;
 }
@@ -18,7 +18,7 @@
 }
 
 .main-color {
-  background-color: #0e76a8;
+  background-color: #490188;
 }
 
 .col-image-left {
@@ -27,7 +27,7 @@
 }
 
 .col-image-right {
-  background-image: url("./images/public/image-1.jpeg");
+  background-image: url("./images/public/image-3.jpeg");
   height: 25em !important;
 }
 
